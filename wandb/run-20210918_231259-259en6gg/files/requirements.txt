@@ -160,7 +160,7 @@ jdcal==1.4.1
 jedi==0.18.0
 jeepney==0.7.1
 jinja2==2.11.3
-joblib==1.0.1
+joblib==1.2.0
 js2py==0.71
 json5==0.9.6
 jsonschema==3.2.0
